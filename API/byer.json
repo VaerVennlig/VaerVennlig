@@ -1,0 +1,224 @@
+{
+  "cities": [
+    {
+      "city": "Oslo",
+      "latitude": 59.9139,
+      "longitude": 10.7522
+    },
+    {
+      "city": "Bergen",
+      "latitude": 60.3913,
+      "longitude": 5.3221
+    },
+    {
+      "city": "Trondheim",
+      "latitude": 63.4305,
+      "longitude": 10.3951
+    },
+    {
+      "city": "Stavanger",
+      "latitude": 58.97,
+      "longitude": 5.7331
+    },
+    {
+      "city": "Drammen",
+      "latitude": 59.7464,
+      "longitude": 10.2045
+    },
+    {
+      "city": "Fredrikstad",
+      "latitude": 59.2181,
+      "longitude": 10.9298
+    },
+    {
+      "city": "Kristiansand",
+      "latitude": 58.1462,
+      "longitude": 7.9974
+    },
+    {
+      "city": "Sandefjord",
+      "latitude": 59.131,
+      "longitude": 10.2166
+    },
+    {
+      "city": "Tromsø",
+      "latitude": 69.6492,
+      "longitude": 18.957
+    },
+    {
+      "city": "Ålesund",
+      "latitude": 62.4722,
+      "longitude": 6.1519
+    },
+    {
+      "city": "Moss",
+      "latitude": 59.437,
+      "longitude": 10.6696
+    },
+    {
+      "city": "Hamar",
+      "latitude": 60.7945,
+      "longitude": 11.0679
+    },
+    {
+      "city": "Haugesund",
+      "latitude": 59.4133,
+      "longitude": 5.2685
+    },
+    {
+      "city": "Molde",
+      "latitude": 62.7379,
+      "longitude": 7.1601
+    },
+    {
+      "city": "Kongsberg",
+      "latitude": 59.6689,
+      "longitude": 9.648
+    },
+    {
+      "city": "Sarpsborg",
+      "latitude": 59.2834,
+      "longitude": 11.1092
+    },
+    {
+      "city": "Vennesla",
+      "latitude": 58.2434,
+      "longitude": 7.9654
+    },
+    {
+      "city": "Alta",
+      "latitude": 69.9689,
+      "longitude": 23.2716
+    },
+    {
+      "city": "Levanger",
+      "latitude": 63.745,
+      "longitude": 11.2996
+    },
+    {
+      "city": "Mandal",
+      "latitude": 58.0253,
+      "longitude": 7.4635
+    },
+    {
+      "city": "Bodø",
+      "latitude": 67.2803,
+      "longitude": 14.4043
+    },
+    {
+      "city": "Tønsberg",
+      "latitude": 59.267,
+      "longitude": 10.407
+    },
+    {
+      "city": "Gjøvik",
+      "latitude": 60.7944,
+      "longitude": 10.6913
+    },
+    {
+      "city": "Åndalsnes",
+      "latitude": 62.5661,
+      "longitude": 7.6874
+    },
+    {
+      "city": "Sogndal",
+      "latitude": 61.2266,
+      "longitude": 7.0985
+    },
+    {
+      "city": "Førde",
+      "latitude": 61.4578,
+      "longitude": 5.8553
+    },
+    {
+      "city": "Røros",
+      "latitude": 62.5748,
+      "longitude": 11.387
+    },
+    {
+      "city": "Kirkenes",
+      "latitude": 69.725,
+      "longitude": 30.0517
+    },
+    {
+      "city": "Florø",
+      "latitude": 61.5994,
+      "longitude": 5.0322
+    },
+    {
+      "city": "Voss",
+      "latitude": 60.6262,
+      "longitude": 6.422
+    },
+    {
+      "city": "Mo i Rana",
+      "latitude": 66.3146,
+      "longitude": 14.1465
+    },
+    {
+      "city": "Kragerø",
+      "latitude": 58.8676,
+      "longitude": 9.4055
+    },
+    {
+      "city": "Flekkefjord",
+      "latitude": 58.2996,
+      "longitude": 6.6494
+    },
+    {
+      "city": "Hønefoss",
+      "latitude": 60.1661,
+      "longitude": 10.2527
+    },
+    {
+      "city": "Vadsø",
+      "latitude": 70.0726,
+      "longitude": 29.7488
+    },
+    {
+      "city": "Svolvær",
+      "latitude": 68.2344,
+      "longitude": 14.5668
+    },
+    {
+      "city": "Måløy",
+      "latitude": 61.9359,
+      "longitude": 5.1136
+    },
+    {
+      "city": "Fauske",
+      "latitude": 67.2582,
+      "longitude": 15.3913
+    },
+    {
+      "city": "Narvik",
+      "latitude": 68.438,
+      "longitude": 17.4287
+    },
+    {
+      "city": "Kolvereid",
+      "latitude": 64.8659,
+      "longitude": 11.5966
+    },
+    {
+      "city": "Namsos",
+      "latitude": 64.4666,
+      "longitude": 11.5005
+    },
+    {
+      "city": "Longyearbyen",
+      "latitude": 78.2166658,
+      "longitude": 15.5499978
+    },
+    {
+      "city": "Halden",
+      "latitude": 59.126389,
+      "longitude": 11.482778
+    },
+    {
+      "city": "Asker",
+      "latitude": 59.834785,
+      "longitude": 10.43726
+    }
+  ]
+}
